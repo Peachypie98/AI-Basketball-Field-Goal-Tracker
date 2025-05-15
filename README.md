@@ -223,6 +223,10 @@ python3 magic.py --detection_weight <exp_name>/<your_detection_weight> --reid_we
 * --cosine_thr: cosine similarity threshold
 
 <br>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Peachypie98/AI-Basketball-Field-Goal-Tracker&type=Date)](https://www.star-history.com/#Peachypie98/AI-Basketball-Field-Goal-Tracker&Date)
   
 ## Members
 | Kumkang Ko | Dongwoo Kim | Joonil Park | Jae Kyu Im | Jiuk Choi |
